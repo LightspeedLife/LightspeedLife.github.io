@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "samanthatseng",
+    "description": "",
+    "home_page_url": "file:///home/lsl/doc/Publii/sites/samanthatseng/preview",
+    "feed_url": "file:///home/lsl/doc/Publii/sites/samanthatseng/preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Samantha Tseng"
+    },
+    "items": [
+        {
+            "id": "file:///home/lsl/doc/Publii/sites/samanthatseng/preview/5-ways-to-improve-your-seo.html",
+            "url": "file:///home/lsl/doc/Publii/sites/samanthatseng/preview/5-ways-to-improve-your-seo.html",
+            "title": "5 Ways to Improve Your SEO",
+            "summary": "1. Bang your head against the wall 2. Ask for help 3. Fight about it 4. Go to bed angry 5. Repeat the next day",
+            "content_html": "<p>1. Bang your head against the wall</p>\n<p>2. Ask for help</p>\n<p>3. Fight about it</p>\n<p>4. Go to bed angry</p>\n<p>5. Repeat the next day</p>",
+            "author": {
+                "name": "Samantha Tseng"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-12T22:38:38-06:00",
+            "date_modified": "2020-09-12T22:38:38-06:00"
+        }
+    ]
+}

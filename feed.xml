@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>samanthatseng</title>
+    <link href="file:///home/lsl/doc/Publii/sites/samanthatseng/preview/feed.xml" rel="self" />
+    <link href="file:///home/lsl/doc/Publii/sites/samanthatseng/preview" />
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <author>
+        <name>Samantha Tseng</name>
+    </author>
+    <id>file:///home/lsl/doc/Publii/sites/samanthatseng/preview</id>
+
+    <entry>
+        <title>5 Ways to Improve Your SEO</title>
+        <author>
+            <name>Samantha Tseng</name>
+        </author>
+        <link href="file:///home/lsl/doc/Publii/sites/samanthatseng/preview/5-ways-to-improve-your-seo.html"/>
+        <id>file:///home/lsl/doc/Publii/sites/samanthatseng/preview/5-ways-to-improve-your-seo.html</id>
+
+        <updated>2020-09-12T22:38:38-06:00</updated>
+            <summary>
+                <![CDATA[
+                    1. Bang your head against the wall 2. Ask for help 3. Fight about it 4. Go to bed angry 5. Repeat the next day
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>1. Bang your head against the wall</p>
+<p>2. Ask for help</p>
+<p>3. Fight about it</p>
+<p>4. Go to bed angry</p>
+<p>5. Repeat the next day</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
